@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavsScript**
+- 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **HTML, CSS and Python**
+- 💬 Ask me about **HTML, CSS, Python and JavaScript**
 
 - 📫 How to reach me **dfofxadze2010@gmail.com or popkhadzedata@gmail.com**
 
-- ⚡ Fun fact **i HATE CSS**
+- ⚡ Fun fact **i LOVE CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
