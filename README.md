@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datapopkhadze&label=Profile%20views&color=0e75b6&style=flat" alt="datapopkhadze" /> </p>
 
-![Banner](https://github.com/DataPopkhadze/DataPopkhadze/raw/main/assets/https://www.google.com/url?sa=i&url=https%3A%2F%2Fitznihal.medium.com%2Fbeautify-your-github-profile-like-a-pro-93f2a3dacaf5&psig=AOvVaw0fVql7G17PM-ngF4ng8MnO&ust=1730046365850000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDIrYq7rIkDFQAAAAAdAAAAABAE)
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
